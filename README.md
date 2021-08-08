@@ -2,8 +2,8 @@
 
 This application is a use case for a librarian where he/she can perform below functions:
 
-Add Book
-      # A book can be added to the system with the title, author and number of copies etc.
+<p>Add Book</p>
+      <p># A book can be added to the system with the title, author and number of copies etc.</p>
       
 Issue a Book
       # A book can be issued to any number of students provided we have availabe copies in the system.
@@ -53,5 +53,5 @@ Exit
 To use this application download all the files and using the makeFile run it into your local machine
 
 To run this on AWS Cloud9 use following commands:
-# make
-# ./Library
+      # make
+      # ./Library
