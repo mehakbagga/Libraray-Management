@@ -2,7 +2,7 @@
 
 This application is a use case for a librarian where he/she can perform below functions:
 
-<p>Add Book</p>
+<p><strong>Add Book</strong></p>
       <p># A book can be added to the system with the title, author and number of copies etc.</p>
       
 Issue a Book
